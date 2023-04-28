@@ -2,7 +2,7 @@
 
 Neste arquivo encontram-se modelos de códigos que serão utilizados no decorrer do curso e suas abordagens. 
 
-/----------------------------------------------------------------------------------------------------------------/
+/---------------------------------------------------------------------------------------------------------------/
 
 Código modelo da li "Comprados":
 
@@ -39,7 +39,7 @@ Input com código refatorado:
 
     <i class="fa-regular fa-floppy-disk is-clickable"></i><i class="fa-regular is-clickable fa-pen-to-square editar"></i>
 
-/----------------------------------------------------------------------------------------------------------------/
+/---------------------------------------------------------------------------------------------------------------/
 
 A única parte que fiz parte do desenvolvimento foi a parte do arquivo "main.js" com o professor Luan Alves da Alura.
 
